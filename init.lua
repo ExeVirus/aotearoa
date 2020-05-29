@@ -11,7 +11,6 @@ dofile(aotearoa.path .. "/functions.lua")
 dofile(aotearoa.path .. "/blocks.lua")
 dofile(aotearoa.path .. "/node_defs.lua")
 dofile(aotearoa.path .. "/schematics.lua")
-dofile(aotearoa.path .. "/mapgen.lua")
 dofile(aotearoa.path .. "/trees.lua")
 dofile(aotearoa.path .. "/crafting.lua")
 
